@@ -15,3 +15,4 @@ elif g>=50:
 else:
     print("F")
     
+# it gives us grades depending on the marks given
